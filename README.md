@@ -1,0 +1,3 @@
+# Scripting-Library
+Armor
+Jewelry
